@@ -1,5 +1,6 @@
 # vision_taofeek_resources
 ABSTRACT
+
 We propose a network for Congested Scene Recognition
 called CSRNet to provide a data-driven and deep learning
 method that can understand highly congested scenes and
@@ -13,4 +14,4 @@ the WorldEXPO’10 dataset, and the UCSD dataset) and
 we deliver the state-of-the-art performance. In the ShanghaiTech Part B dataset, CSRNet achieves 47.3% lower
 Mean Absolute Error (MAE) than the previous state-of-theart method. We extend the targeted applications for counting other objects, such as the vehicle in TRANCOS dataset.
 Results show that CSRNet significantly improves the output
-quality with 15.4% lower MAE than the previous state-ofthe-art approach.
+quality with 15.4% lower MAE than the previous state-of the-art approach.
